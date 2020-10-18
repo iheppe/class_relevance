@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "isabella-portfolio",
+  "private_key_id": "e20fced60f5abe95c1c6d16c7cf9092af76c7cf8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZ7FmS6N2ahXh3\njv2Fqx/q7ZRi/A/0bq7Z3u/HnYmrgOGwqg5Uew/J8IwDXhts0dqZ4stUva+/dJjW\nsQNVHS7bwlOsf93RykbZpjf4gHFJQBhi/XBhGip43rN8Xxh6croW2WTsRhEGNAGW\n535E2OYyDdy+1i882KLfTsoZFHJY9x7ngQj9VV7GnevJ+GUzZQjAngoByaGZIgv1\n7kfEt0vyNCrTIBYlo8fuE7Y/qN65oFgycG0w0Vol+89bsmyFp9y8Q/oMb/xt6eoe\ndZeqQ6xaPS9k/5R3mMSf2gtTEvjvftnA05z/iTmnG7Lcmncmr3VpBMQzE00RE2xU\nu8bmDdspAgMBAAECggEAFw4jveCoDUCAqbl1he5ATrT65WwAbh5FnmQxHv/CQGQ+\nvFeJc5OfbIBn97U9loovI+e0Fk+JJ+q4fsI0dY1EV1icTJwshhTt4PnuYvqHwbWn\nvtVMTeGcS7RX7dkLuGyp1mAChuK0y2C2KFZua+88j2AbEg+L6NaMiK6HwBaDMHkm\nh+M90iCpPy7UvbD67iyloKt05l8GBbQS8SSsgtM9A5z9PpAu3Zp0cDJ0Rf0Bmw4I\nrGJcZED7mL+vsICzjfTEQmnwmDWJp2+E5mII3smBafd4LU+t+QR1NAY5DAk6xvH6\nS1s7xFlAHASg9/idKhxoMo3IGVhrs6cuhAVbcGcczwKBgQD0013REkNXAZ6i6LcP\nbiiJBK8mo35Cq/B37ncxrKUJOYLqL3dexI0PV1PR7oXlZOCuON2uoOVItyR7csMm\nBUBkEEn9SDm3Bc/2NhCJ0KXQSODG+e9BDzIRKnW7HDBUl8yF12YCGtTDt+eRqTQ+\ntlXZuzy2BZIxe2qd0qASimTlrwKBgQDj3qVOWnJm4wfRB5c64qkTcradvUxMPEvA\nLhmX98YPJYn0Ps8LT6/DEbRWGEQgaTLMIYWSScsHO+DIOe1yFRiwnuYRSikrNhoy\n5pHLYNSNbLE7NxBtFHYNcEfmKhAnzC07n4cAwjgNi6JXyVsQoOGxIc9qbFOi5tZO\nmi+plevapwKBgE5VZrojVsp66TAEt7XHME8O4Z/CRf69Fta4xQhuzetSrHGTuGTp\nDJ0w+s+7urm3+i+kYEGkl1gZySF6ibgbjAu4LoRM3LKTuIN1rvr5eGRZPRpNE+FE\nJGfbpwm0Lj6Sx0y3q5rWzObGa+BuPBooqvVcdENlKu6MJ4PRxYfJIhlfAoGBALqc\nsJYdXklCLjmSVNhlnX+O110RFLXuPz8QwecBhFMNNBAxi8/An7lJ+3zyfIBqhq5D\n2aa3Bi1TbT+sqPdfrYufZdzM9jAsK4J57vY2w3tagz5yVuJt+kwBIvCsi/R7sqN8\nfswxQkRdkUMBZLGWf55XiQyn0Eq9bs6KWPQyEihLAoGBAJYS0E/14xShtS/O2QAV\nba6UzeHIAYEDJ6bDd/yjL6RXQmdmqC7NtsU1c1Vxx5rkuuwQawoHPU9TLyFbzDrn\nwTgnPFvheB10q9aNMbwh7Zo0urvpcZoyWG0Fw0EGUqIzLy9nLQYrGoqnUWl3FIOr\nZrF/fak8nxhO+ryhDBQ2S4Wi\n-----END PRIVATE KEY-----\n",
+  "client_email": "isabella-portfolio@appspot.gserviceaccount.com",
+  "client_id": "108452997228873498681",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/isabella-portfolio%40appspot.gserviceaccount.com"
+}

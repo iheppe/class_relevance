@@ -1,0 +1,28 @@
+{
+  "name": "class_relevance",
+  "version": "1.0.0",
+  "description": "A program designed to calculate the relevance of various spoken phrases.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iheppe/class_relevance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iheppe/class_relevance/issues"
+  },
+  "homepage": "https://github.com/iheppe/class_relevance#readme",
+  "dependencies": {
+    "domino": "^2.1.6",
+    "firebase": "^7.24.0",
+    "firebase-admin": "^9.2.0",
+    "firebaseui": "^4.7.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "window": "^4.2.7"
+  }
+}
