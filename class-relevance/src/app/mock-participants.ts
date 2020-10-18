@@ -1,0 +1,25 @@
+import { Participant } from './participant'
+
+export const PEOPLE: Participant[]= [
+    {id: 1, name: 'Jane Doe'},
+    {id: 2, name: 'Hannah Smith'},
+    {id: 3, name: 'Lexie Phelps'},
+    {id: 4, name: 'Safaa Garner'},
+    {id: 5, name: 'Sonya Coulson'},
+    {id: 6, name: 'Faris Sutherland'},
+    {id: 7, name: 'Glen Rangel'},
+    {id: 8, name: 'Bruce Schaefer'},
+    {id: 9, name: 'Joely Wallis'},
+    {id: 10, name: 'Beverly Blair'},
+    {id: 11, name: 'Tara Woodward'},
+    {id: 12, name: 'Nafeesa Jacobs'},
+    {id: 13, name: 'Marina Brandt'},
+    {id: 14, name: 'Shae Crossley'},
+    {id: 15, name: 'Zakk Prentice'},
+    {id: 16, name: 'Cobie Farrington'},
+    {id: 17, name: 'Mina O\'Moore'},
+    {id: 18, name: 'Zoey Fuentes'},
+    {id: 19, name: 'Evie-Mae Floyd'},
+    {id: 20, name: 'Tulisa Villa'},
+    {id: 21, name: 'Reilly Lancaster'},
+];

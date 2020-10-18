@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PEOPLE } from '../mock-participants'
 
 @Component({
   selector: 'app-result',
@@ -6,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./result.component.css']
 })
 export class ResultComponent implements OnInit {
+  participants = PEOPLE;
 
   constructor() { }
 
