@@ -1,0 +1,310 @@
+Hello	Y
+Hello everyone	Y
+Good morning	Y
+Good afternoon	Y
+I hope you've had a good day	Y
+I hope your day is going well	Y
+How are you doing	Y
+Are you well	Y
+Doing well	Y
+Good	Y
+Yes	Y
+No	Y
+Can you explain that again	Y
+I don't understand that	Y
+I don't think I understand	Y
+I don't get it	Y
+I don't think I get it	Y
+I don't know why you would	Y
+I don't know	Y
+I'm not sure	Y
+How do you do that	Y
+Is that always true	Y
+When can you	Y
+When can you use this method	Y
+How is this different from	Y
+Can you give me an idea of	Y
+What does it mean when	Y
+Why did you	Y
+Can you go back to	Y
+Can you explain again why	Y
+Does that mean that	Y
+Doesn't that mean	Y
+Is the answer	Y
+What is the meaning	Y
+What does that mean	Y
+Professor	Y
+Missus	Y
+Mister	Y
+Miss	Y
+Doctor	Y
+Thank you professor	Y
+Thank you doctor	Y
+Thank you mister	Y
+Thank you missus	Y
+Thank you miss	Y
+I got it	Y
+I understand	Y
+Thank you	Y
+Oh I see	Y
+I get it	Y
+I get it now	Y
+That makes sense	Y
+Makes sense	Y
+Good to know	Y
+The answer is	Y
+That makes a lot of sense	Y
+I see	Y
+Can I have the link	Y
+I can't find the test	Y
+I have a question	Y
+Can I ask a question	Y
+For clarification	Y
+When is the test	Y
+When is the homework due	Y
+Homework	Y
+Assignment	Y
+Where should we turn in the assignment	Y
+Exam	Y
+When is the exam	Y
+When is the midterm	Y
+Is there homework	Y
+Can I meet with you	Y
+Final	Y
+When is the final	Y
+Office hours	Y
+When are office hours	Y
+Do you have office hours today	Y
+Have the office hours been posted	Y
+Are there still office hours	Y
+When are you available	Y
+Where can I find more information	Y
+Where are the lecture recordings	Y
+Where can I find the lecture	Y
+Which website	Y
+Where is the website	Y
+Where can I find the website	Y
+Is the homework still due	Y
+For the class	Y
+Link	Y
+Where can I find the lecture	Y
+Where is the link	Y
+Due date	Y
+You're muted	Y
+We can't hear you	Y
+You're not sharing your screen	Y
+We can't see the screen	Y
+Can you repeat that	Y
+Can you say that again	Y
+Please explain again	Y
+We don't see the slides	Y
+We don't see anything	Y
+We can't see anything	Y
+Please share your screen	Y
+Please mute yourself	Y
+Please mute your mic	Y
+https://washington.zoom.us/	Y
+https://docs.google.com/document/	Y
+https://canvas.uw.edu/	Y
+https://www.gradescope.com/	Y
+https://tinyurl.com/	Y
+bob@gmail.com	Y
+julia@gmail.com	Y
+bob@uw.edu	Y
+julia@uw.edu	Y
+bob@hotmail.com	Y
+julia@hotmail.com	Y
+bob@yahoo.com	Y
+julia@yahoo.com	Y
+Opportunity	Y
+Important	Y
+Resources	Y
+Education	Y
+Educational	Y
+Method	Y
+Methods	Y
+Strategy	Y
+Step	Y
+Goal	Y
+What do you recommend	Y
+What would you recommend	Y
+What would you recommend here	Y
+What should I do	Y
+Do you have any advice	Y
+What do you do in this situation	Y
+What should I do here	Y
+I'm a little bit lost	Y
+I'm kind of lost	Y
+Anything I need to know	Y
+Is there anything else I should know	Y
+How did you get started	Y
+How would you finish this	Y
+How would you finish this problem	Y
+What should I do next	Y
+What comes next	Y
+What's the next step	Y
+How should I continue	Y
+What approach should I take	Y
+I don't know what to do after this	Y
+I don't know what I should do next	Y
+I don't know where to start	Y
+I don't know how to begin	Y
+I don't know how to answer this question	Y
+I don't know what method we should use here	Y
+Do you recommend anything	Y
+Can you show me	Y
+Can you demonstrate	Y
+I have to go	Y
+Roblox	N
+Row blocks	N
+I love roblox	N
+I love row blocks	N
+Let's play minecraft	N
+Mine craft	N
+Join my discord	N
+Discord	N
+Ball is life	N
+Follow my tik tok	N
+Tick tock	N
+My camera is dead	N
+Sus	N
+Is sus	N
+Among us	N
+Play	N
+Game	N
+Games	N
+Gaming	N
+Fortnite	N
+Fortnight	N
+Twitch	N
+Stream on twitch	N
+Steam	N
+Playing steam	N
+On steam	N
+Lit	N
+Can we play after class	N
+When is class over	N
+Can I go to the bathroom	N
+I'm gonna pee my pants	N
+This class is stupid	N
+This class is dumb	N
+This class sucks	N
+You guys suck	N
+All of you guys suck	N
+I hate this stupid class	N
+I hate this class	N
+You're stupid	N
+I hate all of you	N
+You're a bad teacher	N
+This is pointless	N
+I'm bored	N
+This is boring	N
+This class is boring	N
+This is a boring class	N
+This is a stupid class	N
+When can we go play	N
+When can we take a break	N
+I need a break	N
+LOL	N
+Poggers	N
+GG	N
+Balling	N
+Smash	N
+I want to play smash	N
+Let's play smash	N
+So stupid	N
+Haha	N
+Ha	N
+Lmao	N
+Lmao you're stupid	N
+That's dumb	N
+That's stupid	N
+I need sleep	N
+I want food	N
+Is it lunchtime yet	N
+I'm hungry	N
+I want lunch	N
+I need food	N
+Can you imagine	N
+I don't want to be here	N
+I don't wanna be here	N
+So dumb	N
+What did he say	N
+What did she say	N
+What's going on	N
+Huh	N
+What the heck	N
+I want to go to bed	N
+I want to leave	N
+Yo you guys, so	N
+So the other day	N
+The craziest thing happened	N
+Omg you guys	N
+You would not believe what happened	N
+I have a funny story to tell	N
+Omg	N
+The funniest thing happened	N
+I have a crazy story for you guys	N
+Y'all need to hear this	N
+You guys need to hear this	N
+This is so funny	N
+F	N
+F in the chat	N
+You are all stupid	N
+All of you are stupid	N
+This is dumb	N
+Dumb idiots	N
+This is a terrible class	N
+This is an awful class	N
+You are all awful	N
+Stan loona	N
+Animal crossing	N
+Pokemon	N
+Pikachu	N
+Nintendo switch	N
+Xbox	N
+Play station	N
+Instagram	N
+Snapchat	N
+Video games	Y
+Boba	N
+Bubble tea	N
+Slurpee	N
+Have you heard that new song	N
+Have you heard their new song	N
+That slaps	N
+Aye	N
+Imposter	N
+I love that game	N
+I love that song	N
+Bro	N
+Bruh	N
+Ahaha	N
+Poop	N
+Poopoo	N
+You ugly	N
+You're ugly	N
+Haters gon hate	N
+Add me on snap	N
+Add me on snapchat	N
+Add me on insta	N
+Add me on instagram	N
+Dank memes	N
+Look at this funny meme	N
+Have you seen this meme yet	N
+Bro this is so funny	N
+AAAAAAAAAAAAAAAAAAAA	N
+What's for dinner	N
+I want dinner	N
+When's dinner	N
+Gimme chicken dinner	N
+What's for lunch	N
+I haven't had breakfast	N
+Rip	N
+https://www.twitch.tv/	N
+https://www.twitch.tv/bob	N
+https://www.twitch.tv/julia	N
+https://www.snapchat.com/	N
+https://www.tiktok.com/	N
+https://www.espn.com/	N
+https://store.steampowered.com/	N
