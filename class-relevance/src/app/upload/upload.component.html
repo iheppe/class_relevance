@@ -1,1 +1,19 @@
-<p>upload works!</p>
+<div id="all">
+    <h1>Chat Relevancy Classifier</h1>
+    <div>
+        <mat-form-field>
+            <mat-label>Meeting ID</mat-label>
+            <input matInput type="text">
+            <button mat-button matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
+            <mat-icon>close</mat-icon>
+            </button>
+        </mat-form-field>
+        <button mat-raised-button color="accent">
+            <mat-icon>attach_file</mat-icon> Chat file upload (.txt file)
+        </button>
+        <br>
+        <button mat-raised-button routerLink="/result" color="primary">
+            Enter!
+        </button>
+    </div>
+</div>
