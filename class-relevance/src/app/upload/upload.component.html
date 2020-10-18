@@ -8,8 +8,22 @@
             <mat-icon>close</mat-icon>
             </button>
         </mat-form-field>
-        <button mat-raised-button color="accent">
+        <input 
+            hidden 
+            type="file" 
+            #uploader
+        />
+        <button mat-raised-button color="accent" (click)="uploader.click()">
             <mat-icon>attach_file</mat-icon> Chat file upload (.txt file)
+        </button>
+        <br>
+        <input 
+            hidden 
+            type="file" 
+            #uploader
+        />
+        <button mat-raised-button color="accent" (click)="uploader.click()">
+            <mat-icon>attach_file</mat-icon> Video file upload (.vtt file)
         </button>
         <br>
         <button mat-raised-button routerLink="/result" color="primary">
