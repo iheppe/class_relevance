@@ -1,1 +1,6 @@
-<p>profile works!</p>
+<div *ngIf="participant" id="all">
+    <h2>{{participant.name}} Summary</h2>
+    <div>
+        <p>{{participant.data}}</p>
+    </div>
+</div>

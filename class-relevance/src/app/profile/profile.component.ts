@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { Participant } from '../participant';
+import { ParticipantService } from '../participant.service';
 
 @Component({
   selector: 'app-profile',
@@ -6,10 +9,21 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./profile.component.css']
 })
 export class ProfileComponent implements OnInit {
+  participant: Participant;
 
-  constructor() { }
+  constructor(
+    private route: ActivatedRoute,
+    private participantService: ParticipantService,
+  ) {}
 
   ngOnInit(): void {
+    this.getHero();
+  }
+
+  getHero(): void {
+    const id = +this.route.snapshot.paramMap.get('id');
+    this.participantService.getParticipant(id)
+      .subscribe(participant => this.participant = participant);
   }
 
 }

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { PEOPLE } from '../mock-participants'
+import { Participant } from '../participant';
+import { ParticipantService } from '../participant.service';
 
 @Component({
   selector: 'app-result',
@@ -7,11 +8,16 @@ import { PEOPLE } from '../mock-participants'
   styleUrls: ['./result.component.css']
 })
 export class ResultComponent implements OnInit {
-  participants = PEOPLE;
+  participants: Participant[];
 
-  constructor() { }
+  constructor(private participantService: ParticipantService) { }
 
   ngOnInit(): void {
+    this.getParticipants();
   }
 
+  getParticipants(): void {
+    this.participantService.getParticipants()
+        .subscribe(participants => this.participants = participants);
+  }
 }
